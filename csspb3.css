@@ -1,0 +1,24 @@
+*{
+    font-size: large;
+}
+.info-container{
+    display: flex;
+    flex-direction: row;
+}
+
+.Name{
+    margin-right: auto;
+}
+
+.Achievements{
+    margin-top: 40px;
+}
+.Contact-Details{
+    margin-top: 60px;
+}
+.Declaration{
+    margin-top: 60px;
+}
+.Career{
+    margin-top: 20px;
+}
